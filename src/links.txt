@@ -1,0 +1,10 @@
+af2787e09edee0ba52d0f4b98cd98a7c
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZjI3ODdlMDllZGVlMGJhNTJkMGY0Yjk4Y2Q5OGE3YyIsInN1YiI6IjY0ZGYwNjZmYTNiNWU2MDEzOTAxMjhlMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Gk8rtG2yL1I93npl8rCJQ0ymhGxigh2CaFSlR6QbId8
+
+https://api.themoviedb.org/3/search/movie?query=Jack+Reacher&api_key=API_KEY
+
+Now Playing:
+https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc&with_release_type=2|3&release_date.gte={min_date}&release_date.lte={max_date}
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=af2787e09edee0ba52d0f4b98cd98a7c
